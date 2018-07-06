@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{2:function(n,o,i){var t;void 0===(t=function(n,i){"use strict";o.muti=function(n,o){return n*o}}.call(o,i,o,n))||(n.exports=t)}}]);
